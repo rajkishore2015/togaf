@@ -1,0 +1,47 @@
+ADM KEYINPUTS StuDY Cards.pdf
+INTRODUCTION.pdf
+name.txt
+TOGAF Poster 1.pdf
+TOGAF Poster 2.pdf
+TOGAF Poster 4.pdf
+TOGAF Poster 5 - ABB & SBB.pdf
+TOGAF Poster 6 - RISK.pdf
+TOGAF Poster 7 - CAPABILITY.pdf
+TOGAF Poster 7 - GOVERNANCE.pdf
+TOGAF Poster 9 - ARCHITECTURE PARTIONING.pdf
+TOGAF Poster 10 - ADM OBJECTIVES.pdf
+TOGAF Poster 10 - RELEASE AND VERSIONING.pdf
+TOGAF Poster 10 - TRANSITION ARCHITECTURE.pdf
+TOGAF Poster 13 - TRM.pdf
+TOGAF Poster 14 - B,C,D Common Elements.pdf
+TOGAF Poster 15 - Architecture Continuum.pdf
+TOGAF Poster 16 - Solution Continuum.pdf
+TOGAF Poster 17 - Architecture Repositry.pdf
+TOGAF Poster 18 - Deliverables, Artifact&Blocks.pdf
+TOGAF Poster 19 - IIM-RM.pdf
+TOGAF Poster 20 - Parts of TOGAF.pdf
+TOGAF Poster 21 - Executive Interview.pdf
+TOGAF Poster 22 - SECURITY Architecture.pdf
+TOGAF Poster 23 - Security and ADM.pdf
+TOGAF Poster 24 - Requirement Management.pdf
+TOGAF Poster 25 - Architecture Pattern.pdf
+TOGAF Poster 26 - SOA.pdf
+TOGAF Poster 27 - Business Transformation Readiness Matrix.pdf
+TOGAF Poster 28 - B,C,D Common Elements.pdf
+TOGAF Poster 29 - TOGAF checklist.pdf
+TOGAF Poster 30 - Business Value Assessment.pdf
+TOGAF Poster 31 - Architecture Vision.pdf
+TOGAF Poster 32 - Migration Planning.pdf
+TOGAF Poster 33 - Architecture Content Framework.pdf
+TOGAF Poster 33 - Architecture Governance.pdf
+TOGAF Poster 35 - Change Management.pdf
+TOGAF Poster 36 - Requirement Management.pdf
+TOGAF Poster 37 - Architecture Contracts.pdf
+TOGAF Poster 38 - Architecture Definition.pdf
+TOGAF Poster 39 - Architecture Repositry.pdf
+TOGAF Poster 40 - Architecture Capability.pdf
+TOGAF Poster 41 - Implementation Governance.pdf
+TOGAF Poster 42 -TOGAF Guidelines.pdf
+TOGAF Poster 43 -TOGAF Sandwich Diagram.pdf
+TOGAF Poster 44 -TOGAF and ArchiMate.pdf
+TOGAF Poster 45 -TOGAF and ArchiMate.pdf
